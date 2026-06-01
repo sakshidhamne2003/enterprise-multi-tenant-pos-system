@@ -65,7 +65,7 @@ frontend/
 
 ### Clone Repository
 
-git clone https://github.com/your-username/enterprise-multi-tenant-pos-system.git
+git clone https://github.com/sakshidhamne2003/enterprise-multi-tenant-pos-system.git
 
 ### Backend Setup
 
